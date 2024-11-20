@@ -1,10 +1,12 @@
-# 42_ExamPrep
-
 # 🌟 42 Exam Preparation
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/melaniereis/42_ExamPrep)
 ![GitHub stars](https://img.shields.io/github/stars/melaniereis/42_ExamPrep?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/melaniereis/42_ExamPrep?style=social)
+
+<p align="center">
+    <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" alt="Studying Meme" width="500"/>
+</p>
 
 Welcome to the **42 Exam Preparation** repository! This project is dedicated to helping students at 42 coding school prepare effectively for their exams through a variety of resources and practice materials.
 
@@ -15,7 +17,6 @@ Welcome to the **42 Exam Preparation** repository! This project is dedicated to 
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Disclaimer](#-disclaimer)
-- [Get in Touch](#-get-in-touch)
 - [Dynamic GitHub Activity](#-dynamic-github-activity)
 
 ## 📚 Contents
@@ -70,16 +71,6 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 This repository is not officially affiliated with 42 coding school. It is a community-driven initiative aimed at assisting fellow students in their exam preparation journey.
 
-## 💬 Get in Touch
-
-<details>
-<summary>Click to expand</summary>
-
-- **GitHub Issues**: For bug reports and feature requests
-- **Email**: [Your Email]
-- **Twitter**: [@YourTwitterHandle]
-
-</details>
 
 ## 🎉 Dynamic GitHub Activity
 
