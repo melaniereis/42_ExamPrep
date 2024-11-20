@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/melaniereis/42_ExamPrep?style=social)
 
 <p align="center">
-    <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" alt="Studying Meme" width="500"/>
+    <img src="https://media.giphy.com/media/3o6Zt4HU9uwXmXSAuI/giphy.gif" alt="Funny Studying GIF" width="500"/>
 </p>
 
 Welcome to the **42 Exam Preparation** repository! This project is dedicated to helping students at 42 coding school prepare effectively for their exams through a variety of resources and practice materials.
