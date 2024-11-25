@@ -12,7 +12,7 @@ void	print_bits(unsigned char octet)
         write (1, &bit, 1);
     }
 }
-
+/*
 #include <stdlib.h>
 int main(int argc, char **argv)
 {
@@ -22,4 +22,4 @@ int main(int argc, char **argv)
         print_bits(atoi(argv[i++]));
         write(1, "\n", 1);
     }
-}
+}*/
